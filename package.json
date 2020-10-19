@@ -1,0 +1,24 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "mern stack ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon run server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/PainAiko/backendMERN.git"
+  },
+  "keywords": [
+    "PainAiko"
+  ],
+  "author": "PainAiko",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
